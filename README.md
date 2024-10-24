@@ -1,4 +1,4 @@
-# Stock_Price-Prediction-using-ARIMA
+# Stock_Price-Forcasting-using-ARIMA
 This repository includes code for forecasting stock prices using the ARIMA model. The model was applied to three stocks: EXX5, IQQE, and IUS4, with data collected from Yahoo Finance for the period from May 2021 to May 2022.
 
 # Key Steps in the Code
